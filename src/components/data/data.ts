@@ -9,15 +9,15 @@ import Todos from "../assets/react_ts-todos.png";
 import MovieApp from "../assets/movieApp.png";
 import NasaSpace from "../assets/nasaSpace.png";
 import RecibeApp from "../assets/recibeApp.png";
-import AI from "../assets/openai-featured.jpg";
+import Portfolio from "../assets/portfolio.png";
 
 export const data: TypeMyData[] = [
   {
     id: 1,
     title: "React + TS Portfolio",
-    img_url: `${AI}`,
-    link: "none",
-    gitHub: "none",
+    img_url: `${Portfolio}`,
+    link: "https://muratavci05.github.io/my-portfolio/",
+    gitHub: "https://github.com/muratavci05",
   },
   {
     id: 2,
