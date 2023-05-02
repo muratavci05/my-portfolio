@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.ffc642ed.css",
+    "main.js": "/my-portfolio/static/js/main.2496b23c.js",
+    "static/media/hospitalv1.png": "/my-portfolio/static/media/hospitalv1.8fd3e1aeb372ce59cc66.png",
+    "static/media/movieApp.png": "/my-portfolio/static/media/movieApp.7d04fb3e165b479ef3f9.png",
+    "static/media/recibeApp.png": "/my-portfolio/static/media/recibeApp.4d1947ed000e33430be2.png",
+    "static/media/nasaSpace.png": "/my-portfolio/static/media/nasaSpace.9de40cfa51c47739ca41.png",
+    "static/media/react-firebase-ecommerce.png": "/my-portfolio/static/media/react-firebase-ecommerce.1b37f3fc08d827f2c78f.png",
+    "static/media/unitTest-icecream.png": "/my-portfolio/static/media/unitTest-icecream.9810b86c8ff7ac7f3b25.png",
+    "static/media/cryptoapp.png": "/my-portfolio/static/media/cryptoapp.067ca91eb553f06a4eb2.png",
+    "static/media/TS-hangman.png": "/my-portfolio/static/media/TS-hangman.da70486a314da6edd2b9.png",
+    "static/media/avatar02.jpg": "/my-portfolio/static/media/avatar02.655430201941cd0a6f7f.jpg",
+    "static/media/My_Resume.pdf": "/my-portfolio/static/media/My_Resume.707b0611456ff9488c4c.pdf",
+    "static/media/react_ts-todos.png": "/my-portfolio/static/media/react_ts-todos.e964a395d0736765c491.png",
+    "static/media/myphoto.png": "/my-portfolio/static/media/myphoto.eac03115a04c95d4d234.png",
+    "static/media/openai-featured.jpg": "/my-portfolio/static/media/openai-featured.61ec66d76e1a0ff928f5.jpg",
+    "static/media/avatar2.jpg": "/my-portfolio/static/media/avatar2.f63e0ed3bce35fdcda1f.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.ffc642ed.css.map": "/my-portfolio/static/css/main.ffc642ed.css.map",
+    "main.2496b23c.js.map": "/my-portfolio/static/js/main.2496b23c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc642ed.css",
+    "static/js/main.2496b23c.js"
+  ]
+}
