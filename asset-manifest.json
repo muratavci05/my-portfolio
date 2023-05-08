@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.ffc642ed.css",
-    "main.js": "/my-portfolio/static/js/main.70c95fe9.js",
+    "main.js": "/my-portfolio/static/js/main.0b63d7b1.js",
     "static/media/hospitalv1.png": "/my-portfolio/static/media/hospitalv1.8fd3e1aeb372ce59cc66.png",
     "static/media/movieApp.png": "/my-portfolio/static/media/movieApp.7d04fb3e165b479ef3f9.png",
     "static/media/recibeApp.png": "/my-portfolio/static/media/recibeApp.4d1947ed000e33430be2.png",
@@ -12,16 +12,16 @@
     "static/media/TS-hangman.png": "/my-portfolio/static/media/TS-hangman.da70486a314da6edd2b9.png",
     "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.a9d0d9658bf18be4a2af.png",
     "static/media/avatar02.jpg": "/my-portfolio/static/media/avatar02.655430201941cd0a6f7f.jpg",
-    "static/media/My_Resume.pdf": "/my-portfolio/static/media/My_Resume.707b0611456ff9488c4c.pdf",
+    "static/media/My_Resume.pdf": "/my-portfolio/static/media/My_Resume.d65acada450b3cea3eeb.pdf",
     "static/media/react_ts-todos.png": "/my-portfolio/static/media/react_ts-todos.e964a395d0736765c491.png",
     "static/media/myphoto.png": "/my-portfolio/static/media/myphoto.eac03115a04c95d4d234.png",
     "static/media/avatar2.jpg": "/my-portfolio/static/media/avatar2.f63e0ed3bce35fdcda1f.jpg",
     "index.html": "/my-portfolio/index.html",
     "main.ffc642ed.css.map": "/my-portfolio/static/css/main.ffc642ed.css.map",
-    "main.70c95fe9.js.map": "/my-portfolio/static/js/main.70c95fe9.js.map"
+    "main.0b63d7b1.js.map": "/my-portfolio/static/js/main.0b63d7b1.js.map"
   },
   "entrypoints": [
     "static/css/main.ffc642ed.css",
-    "static/js/main.70c95fe9.js"
+    "static/js/main.0b63d7b1.js"
   ]
 }
