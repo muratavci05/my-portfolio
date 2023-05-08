@@ -7,6 +7,7 @@ const Contact = () => {
   const [sent, setSent] = useState<boolean>(false);
   const [loading, setLoading] = useState<boolean>(false);
   const inputRef: any = useRef<HTMLFormElement>(null);
+ 
   const serviceId: string | undefined = process.env.REACT_APP_MY_SERVICE;
   const templateId: string | undefined = process.env.REACT_APP_MY_TEMPLATE;
   const publicKey: string | undefined = process.env.REACT_APP_MY_PUBLIC_KEY;
