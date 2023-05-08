@@ -138,13 +138,30 @@ const Qualification: React.FC = () => {
               {/* GRP 5 */}
               <div className="qualification__data">
                 <div>
+                  <h3 className="qualififaction__title">Freelancer</h3>
+                  <span className="qualification__subtitle">
+                    Frontend Developer | Open To Work
+                  </span>
+                  <div className="qualification__calender">
+                    <i className="uil uil-calender"></i>
+                    2023 -
+                  </div>
+                </div>
+                <div>
+                  <span className="qualifaction__rounder"></span>
+                  <span className="qualification__line"></span>
+                </div>
+              </div>
+               {/* GRP 5 */}
+              <div className="qualification__data">
+                <div>
                   <h3 className="qualififaction__title">Mimcode</h3>
                   <span className="qualification__subtitle">
                     Frontend Developer | Remote - Istanbul
                   </span>
                   <div className="qualification__calender">
                     <i className="uil uil-calender"></i>
-                    2022 - 
+                    2022 - 2023
                   </div>
                 </div>
                 <div>
@@ -160,8 +177,8 @@ const Qualification: React.FC = () => {
                   <span className="qualification__line"></span>
                 </div>
                 <div>
-                  <h3 className="qualififaction__title">Udemig</h3>
-                  <span className="qualification__subtitle">Frontend Developer | Remote - Sweden</span>
+                  <h3 className="qualififaction__title">Arabuleu</h3>
+                  <span className="qualification__subtitle">Frontend Developer | Remote - France</span>
                   <div className="qualification__calender">
                     <i className="uil uil-calender"></i>
                     2021 - 2022
