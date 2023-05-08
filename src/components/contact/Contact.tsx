@@ -7,9 +7,9 @@ const Contact = () => {
   const [sent, setSent] = useState<boolean>(false);
   const [loading, setLoading] = useState<boolean>(false);
   const inputRef: any = useRef<HTMLFormElement>(null);
-  const serviceId: string | undefined | boolean | any = "service_jpd1wof";
-  const templateId: string | undefined | boolean | any = "template_q5dc0ib";
-  const publicKey: string | undefined | boolean | any = "dTl0pI_M0nsxnezDQ";
+  const serviceId: string | undefined = process.env.REACT_APP_MY_SERVICE;
+  const templateId: string | undefined = process.env.REACT_APP_MY_TEMPLATE;
+  const publicKey: string | undefined = process.env.REACT_APP_MY_PUBLIC_KEY;
 
   const method: string = "POST";
   const url: string = "https://api.emailjs.com/api/v1.0/email/send";
